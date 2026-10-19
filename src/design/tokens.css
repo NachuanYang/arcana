@@ -1,0 +1,20 @@
+:root {
+  color-scheme: dark;
+  --night-950: #0e1521;
+  --night-900: #172333;
+  --night-850: #1b2a3d;
+  --night-800: #253447;
+  --gold-500: #d6b77d;
+  --gold-450: #c8aa72;
+  --gold-400: #f3dcad;
+  --parchment-100: #f3f0e9;
+  --slate-500: #a0adbb;
+  --slate-450: #b7c1cc;
+  --success-400: #8cc69b;
+  --danger-400: #c8716d;
+  --ink: var(--parchment-100);
+  --muted: var(--slate-500);
+  --gold: var(--gold-500);
+  --line: rgba(216, 197, 159, 0.2);
+  --panel: var(--night-900);
+}

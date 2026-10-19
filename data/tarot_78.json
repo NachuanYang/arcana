@@ -1,0 +1,1603 @@
+{
+  "deckId": "rws_pam_a_taionwc_v1",
+  "edition": "TaionWC/Pam-A",
+  "sourceArtist": "Pamela Colman Smith",
+  "sourceCategory": "https://commons.wikimedia.org/wiki/Category:Rider-Waite-Smith_tarot_deck_(TaionWC)",
+  "cardCount": 78,
+  "cards": [
+    {
+      "id": "major_00",
+      "arcana": "major",
+      "number": 0,
+      "name_zh": "愚者",
+      "name_en": "The Fool",
+      "symbol": "✧",
+      "upright_keywords": [
+        "启程",
+        "自由",
+        "未知"
+      ],
+      "reversed_keywords": [
+        "鲁莽",
+        "缺乏准备",
+        "盲目冒险"
+      ],
+      "imagePath": "/assets/tarot/rws/major_00.webp"
+    },
+    {
+      "id": "major_01",
+      "arcana": "major",
+      "number": 1,
+      "name_zh": "魔术师",
+      "name_en": "The Magician",
+      "symbol": "✦",
+      "upright_keywords": [
+        "主动",
+        "资源整合",
+        "实现"
+      ],
+      "reversed_keywords": [
+        "操控",
+        "资源错用",
+        "行动落空"
+      ],
+      "imagePath": "/assets/tarot/rws/major_01.webp"
+    },
+    {
+      "id": "major_02",
+      "arcana": "major",
+      "number": 2,
+      "name_zh": "女祭司",
+      "name_en": "The High Priestess",
+      "symbol": "☾",
+      "upright_keywords": [
+        "直觉",
+        "隐情",
+        "静观"
+      ],
+      "reversed_keywords": [
+        "信息遮蔽",
+        "忽视直觉",
+        "秘密困扰"
+      ],
+      "imagePath": "/assets/tarot/rws/major_02.webp"
+    },
+    {
+      "id": "major_03",
+      "arcana": "major",
+      "number": 3,
+      "name_zh": "皇后",
+      "name_en": "The Empress",
+      "symbol": "❦",
+      "upright_keywords": [
+        "滋养",
+        "丰盛",
+        "生长"
+      ],
+      "reversed_keywords": [
+        "依赖",
+        "过度保护",
+        "创造受阻"
+      ],
+      "imagePath": "/assets/tarot/rws/major_03.webp"
+    },
+    {
+      "id": "major_04",
+      "arcana": "major",
+      "number": 4,
+      "name_zh": "皇帝",
+      "name_en": "The Emperor",
+      "symbol": "♜",
+      "upright_keywords": [
+        "秩序",
+        "责任",
+        "稳固"
+      ],
+      "reversed_keywords": [
+        "僵化",
+        "控制欲",
+        "权威失衡"
+      ],
+      "imagePath": "/assets/tarot/rws/major_04.webp"
+    },
+    {
+      "id": "major_05",
+      "arcana": "major",
+      "number": 5,
+      "name_zh": "教皇",
+      "name_en": "The Hierophant",
+      "symbol": "⌘",
+      "upright_keywords": [
+        "传统",
+        "学习",
+        "规范"
+      ],
+      "reversed_keywords": [
+        "盲从",
+        "刻板",
+        "价值冲突"
+      ],
+      "imagePath": "/assets/tarot/rws/major_05.webp"
+    },
+    {
+      "id": "major_06",
+      "arcana": "major",
+      "number": 6,
+      "name_zh": "恋人",
+      "name_en": "The Lovers",
+      "symbol": "♡",
+      "upright_keywords": [
+        "连结",
+        "选择",
+        "价值一致"
+      ],
+      "reversed_keywords": [
+        "失衡",
+        "摇摆",
+        "关系分歧"
+      ],
+      "imagePath": "/assets/tarot/rws/major_06.webp"
+    },
+    {
+      "id": "major_07",
+      "arcana": "major",
+      "number": 7,
+      "name_zh": "战车",
+      "name_en": "The Chariot",
+      "symbol": "♞",
+      "upright_keywords": [
+        "方向",
+        "意志",
+        "推进"
+      ],
+      "reversed_keywords": [
+        "失控",
+        "急躁",
+        "方向偏离"
+      ],
+      "imagePath": "/assets/tarot/rws/major_07.webp"
+    },
+    {
+      "id": "major_08",
+      "arcana": "major",
+      "number": 8,
+      "name_zh": "力量",
+      "name_en": "Strength",
+      "symbol": "♌",
+      "upright_keywords": [
+        "耐心",
+        "勇气",
+        "温柔掌控"
+      ],
+      "reversed_keywords": [
+        "自我怀疑",
+        "压抑",
+        "强撑"
+      ],
+      "imagePath": "/assets/tarot/rws/major_08.webp"
+    },
+    {
+      "id": "major_09",
+      "arcana": "major",
+      "number": 9,
+      "name_zh": "隐者",
+      "name_en": "The Hermit",
+      "symbol": "✶",
+      "upright_keywords": [
+        "反思",
+        "独处",
+        "洞察"
+      ],
+      "reversed_keywords": [
+        "逃避",
+        "孤立",
+        "拒绝求助"
+      ],
+      "imagePath": "/assets/tarot/rws/major_09.webp"
+    },
+    {
+      "id": "major_10",
+      "arcana": "major",
+      "number": 10,
+      "name_zh": "命运之轮",
+      "name_en": "Wheel of Fortune",
+      "symbol": "◉",
+      "upright_keywords": [
+        "转机",
+        "周期",
+        "变化"
+      ],
+      "reversed_keywords": [
+        "停滞",
+        "抗拒变化",
+        "反复无常"
+      ],
+      "imagePath": "/assets/tarot/rws/major_10.webp"
+    },
+    {
+      "id": "major_11",
+      "arcana": "major",
+      "number": 11,
+      "name_zh": "正义",
+      "name_en": "Justice",
+      "symbol": "⚖",
+      "upright_keywords": [
+        "公平",
+        "责任",
+        "后果"
+      ],
+      "reversed_keywords": [
+        "偏见",
+        "失衡",
+        "回避责任"
+      ],
+      "imagePath": "/assets/tarot/rws/major_11.webp"
+    },
+    {
+      "id": "major_12",
+      "arcana": "major",
+      "number": 12,
+      "name_zh": "倒吊人",
+      "name_en": "The Hanged Man",
+      "symbol": "◇",
+      "upright_keywords": [
+        "暂停",
+        "换位思考",
+        "舍弃旧视角"
+      ],
+      "reversed_keywords": [
+        "僵局",
+        "无效牺牲",
+        "拖延"
+      ],
+      "imagePath": "/assets/tarot/rws/major_12.webp"
+    },
+    {
+      "id": "major_13",
+      "arcana": "major",
+      "number": 13,
+      "name_zh": "死神",
+      "name_en": "Death",
+      "symbol": "♢",
+      "upright_keywords": [
+        "结束",
+        "转化",
+        "更新"
+      ],
+      "reversed_keywords": [
+        "难以放手",
+        "抗拒结束",
+        "转型延迟"
+      ],
+      "imagePath": "/assets/tarot/rws/major_13.webp"
+    },
+    {
+      "id": "major_14",
+      "arcana": "major",
+      "number": 14,
+      "name_zh": "节制",
+      "name_en": "Temperance",
+      "symbol": "♧",
+      "upright_keywords": [
+        "调和",
+        "节律",
+        "平衡"
+      ],
+      "reversed_keywords": [
+        "失度",
+        "不协调",
+        "急于求成"
+      ],
+      "imagePath": "/assets/tarot/rws/major_14.webp"
+    },
+    {
+      "id": "major_15",
+      "arcana": "major",
+      "number": 15,
+      "name_zh": "恶魔",
+      "name_en": "The Devil",
+      "symbol": "♠",
+      "upright_keywords": [
+        "束缚",
+        "诱惑",
+        "依赖"
+      ],
+      "reversed_keywords": [
+        "意识到枷锁",
+        "挣脱困难",
+        "反复纠缠"
+      ],
+      "imagePath": "/assets/tarot/rws/major_15.webp"
+    },
+    {
+      "id": "major_16",
+      "arcana": "major",
+      "number": 16,
+      "name_zh": "高塔",
+      "name_en": "The Tower",
+      "symbol": "⌁",
+      "upright_keywords": [
+        "冲击",
+        "破局",
+        "暴露真相"
+      ],
+      "reversed_keywords": [
+        "延迟崩解",
+        "隐患未除",
+        "抗拒改变"
+      ],
+      "imagePath": "/assets/tarot/rws/major_16.webp"
+    },
+    {
+      "id": "major_17",
+      "arcana": "major",
+      "number": 17,
+      "name_zh": "星星",
+      "name_en": "The Star",
+      "symbol": "✴",
+      "upright_keywords": [
+        "希望",
+        "修复",
+        "信任"
+      ],
+      "reversed_keywords": [
+        "失望",
+        "恢复缓慢",
+        "信念摇摆"
+      ],
+      "imagePath": "/assets/tarot/rws/major_17.webp"
+    },
+    {
+      "id": "major_18",
+      "arcana": "major",
+      "number": 18,
+      "name_zh": "月亮",
+      "name_en": "The Moon",
+      "symbol": "☽",
+      "upright_keywords": [
+        "迷雾",
+        "恐惧",
+        "潜意识"
+      ],
+      "reversed_keywords": [
+        "误解消散",
+        "自欺",
+        "仍未看清"
+      ],
+      "imagePath": "/assets/tarot/rws/major_18.webp"
+    },
+    {
+      "id": "major_19",
+      "arcana": "major",
+      "number": 19,
+      "name_zh": "太阳",
+      "name_en": "The Sun",
+      "symbol": "☼",
+      "upright_keywords": [
+        "明朗",
+        "活力",
+        "成功"
+      ],
+      "reversed_keywords": [
+        "喜悦延迟",
+        "过度乐观",
+        "光芒受阻"
+      ],
+      "imagePath": "/assets/tarot/rws/major_19.webp"
+    },
+    {
+      "id": "major_20",
+      "arcana": "major",
+      "number": 20,
+      "name_zh": "审判",
+      "name_en": "Judgement",
+      "symbol": "❂",
+      "upright_keywords": [
+        "觉醒",
+        "复盘",
+        "重新选择"
+      ],
+      "reversed_keywords": [
+        "自责",
+        "犹疑",
+        "逃避召唤"
+      ],
+      "imagePath": "/assets/tarot/rws/major_20.webp"
+    },
+    {
+      "id": "major_21",
+      "arcana": "major",
+      "number": 21,
+      "name_zh": "世界",
+      "name_en": "The World",
+      "symbol": "◎",
+      "upright_keywords": [
+        "完成",
+        "整合",
+        "循环闭合"
+      ],
+      "reversed_keywords": [
+        "收尾未竟",
+        "停留舒适圈",
+        "延后完成"
+      ],
+      "imagePath": "/assets/tarot/rws/major_21.webp"
+    },
+    {
+      "id": "minor_wands_01",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "Ace",
+      "name_zh": "权杖王牌",
+      "name_en": "Ace of Wands",
+      "symbol": "♧",
+      "upright_keywords": [
+        "灵感",
+        "新计划",
+        "启动"
+      ],
+      "reversed_keywords": [
+        "动力不足",
+        "热情受阻",
+        "机会延迟"
+      ],
+      "domain": "行动、动力、事业与创造",
+      "imagePath": "/assets/tarot/rws/minor_wands_01.webp"
+    },
+    {
+      "id": "minor_wands_02",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "Two",
+      "name_zh": "权杖二",
+      "name_en": "Two of Wands",
+      "symbol": "♧",
+      "upright_keywords": [
+        "规划",
+        "视野",
+        "下一步"
+      ],
+      "reversed_keywords": [
+        "犹疑",
+        "畏惧未来",
+        "行动受限"
+      ],
+      "domain": "行动、动力、事业与创造",
+      "imagePath": "/assets/tarot/rws/minor_wands_02.webp"
+    },
+    {
+      "id": "minor_wands_03",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "Three",
+      "name_zh": "权杖三",
+      "name_en": "Three of Wands",
+      "symbol": "♧",
+      "upright_keywords": [
+        "进展",
+        "扩张",
+        "合作前景"
+      ],
+      "reversed_keywords": [
+        "进度受阻",
+        "目光短浅",
+        "协作延迟"
+      ],
+      "domain": "行动、动力、事业与创造",
+      "imagePath": "/assets/tarot/rws/minor_wands_03.webp"
+    },
+    {
+      "id": "minor_wands_04",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "Four",
+      "name_zh": "权杖四",
+      "name_en": "Four of Wands",
+      "symbol": "♧",
+      "upright_keywords": [
+        "庆祝",
+        "稳定",
+        "归属"
+      ],
+      "reversed_keywords": [
+        "庆典延后",
+        "关系不稳",
+        "暂不安定"
+      ],
+      "domain": "行动、动力、事业与创造",
+      "imagePath": "/assets/tarot/rws/minor_wands_04.webp"
+    },
+    {
+      "id": "minor_wands_05",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "Five",
+      "name_zh": "权杖五",
+      "name_en": "Five of Wands",
+      "symbol": "♧",
+      "upright_keywords": [
+        "竞争",
+        "摩擦",
+        "争论"
+      ],
+      "reversed_keywords": [
+        "冲突回避",
+        "内耗",
+        "争执缓和"
+      ],
+      "domain": "行动、动力、事业与创造",
+      "imagePath": "/assets/tarot/rws/minor_wands_05.webp"
+    },
+    {
+      "id": "minor_wands_06",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "Six",
+      "name_zh": "权杖六",
+      "name_en": "Six of Wands",
+      "symbol": "♧",
+      "upright_keywords": [
+        "认可",
+        "胜利",
+        "公开肯定"
+      ],
+      "reversed_keywords": [
+        "迟来的认可",
+        "虚荣",
+        "失去掌声"
+      ],
+      "domain": "行动、动力、事业与创造",
+      "imagePath": "/assets/tarot/rws/minor_wands_06.webp"
+    },
+    {
+      "id": "minor_wands_07",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "Seven",
+      "name_zh": "权杖七",
+      "name_en": "Seven of Wands",
+      "symbol": "♧",
+      "upright_keywords": [
+        "守住立场",
+        "压力",
+        "抗争"
+      ],
+      "reversed_keywords": [
+        "疲惫",
+        "防御过度",
+        "放弃界限"
+      ],
+      "domain": "行动、动力、事业与创造",
+      "imagePath": "/assets/tarot/rws/minor_wands_07.webp"
+    },
+    {
+      "id": "minor_wands_08",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "Eight",
+      "name_zh": "权杖八",
+      "name_en": "Eight of Wands",
+      "symbol": "♧",
+      "upright_keywords": [
+        "迅速推进",
+        "消息",
+        "变化"
+      ],
+      "reversed_keywords": [
+        "延误",
+        "急躁",
+        "沟通错位"
+      ],
+      "domain": "行动、动力、事业与创造",
+      "imagePath": "/assets/tarot/rws/minor_wands_08.webp"
+    },
+    {
+      "id": "minor_wands_09",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "Nine",
+      "name_zh": "权杖九",
+      "name_en": "Nine of Wands",
+      "symbol": "♧",
+      "upright_keywords": [
+        "韧性",
+        "警惕",
+        "坚守"
+      ],
+      "reversed_keywords": [
+        "过度戒备",
+        "精疲力尽",
+        "信任困难"
+      ],
+      "domain": "行动、动力、事业与创造",
+      "imagePath": "/assets/tarot/rws/minor_wands_09.webp"
+    },
+    {
+      "id": "minor_wands_10",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "Ten",
+      "name_zh": "权杖十",
+      "name_en": "Ten of Wands",
+      "symbol": "♧",
+      "upright_keywords": [
+        "负担",
+        "责任过重",
+        "压力"
+      ],
+      "reversed_keywords": [
+        "卸下重担",
+        "责任失衡",
+        "力不从心"
+      ],
+      "domain": "行动、动力、事业与创造",
+      "imagePath": "/assets/tarot/rws/minor_wands_10.webp"
+    },
+    {
+      "id": "minor_wands_11",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "Page",
+      "name_zh": "权杖侍从",
+      "name_en": "Page of Wands",
+      "symbol": "♧",
+      "upright_keywords": [
+        "好奇",
+        "探索",
+        "新消息"
+      ],
+      "reversed_keywords": [
+        "三分钟热度",
+        "缺乏方向",
+        "不成熟"
+      ],
+      "domain": "行动、动力、事业与创造",
+      "imagePath": "/assets/tarot/rws/minor_wands_11.webp"
+    },
+    {
+      "id": "minor_wands_12",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "Knight",
+      "name_zh": "权杖骑士",
+      "name_en": "Knight of Wands",
+      "symbol": "♧",
+      "upright_keywords": [
+        "行动迅猛",
+        "冒险",
+        "热情"
+      ],
+      "reversed_keywords": [
+        "冲动",
+        "反复",
+        "有勇无谋"
+      ],
+      "domain": "行动、动力、事业与创造",
+      "imagePath": "/assets/tarot/rws/minor_wands_12.webp"
+    },
+    {
+      "id": "minor_wands_13",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "Queen",
+      "name_zh": "权杖皇后",
+      "name_en": "Queen of Wands",
+      "symbol": "♧",
+      "upright_keywords": [
+        "自信",
+        "魅力",
+        "独立"
+      ],
+      "reversed_keywords": [
+        "自我怀疑",
+        "嫉妒",
+        "控制欲"
+      ],
+      "domain": "行动、动力、事业与创造",
+      "imagePath": "/assets/tarot/rws/minor_wands_13.webp"
+    },
+    {
+      "id": "minor_wands_14",
+      "arcana": "minor",
+      "suit": "wands",
+      "rank": "King",
+      "name_zh": "权杖国王",
+      "name_en": "King of Wands",
+      "symbol": "♧",
+      "upright_keywords": [
+        "领导",
+        "远见",
+        "承担"
+      ],
+      "reversed_keywords": [
+        "专断",
+        "急躁",
+        "掌控失衡"
+      ],
+      "domain": "行动、动力、事业与创造",
+      "imagePath": "/assets/tarot/rws/minor_wands_14.webp"
+    },
+    {
+      "id": "minor_cups_01",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "Ace",
+      "name_zh": "圣杯王牌",
+      "name_en": "Ace of Cups",
+      "symbol": "♡",
+      "upright_keywords": [
+        "情感觉醒",
+        "温柔",
+        "新的连结"
+      ],
+      "reversed_keywords": [
+        "情绪封闭",
+        "压抑",
+        "感情流动受阻"
+      ],
+      "domain": "情感、关系、共情与直觉",
+      "imagePath": "/assets/tarot/rws/minor_cups_01.webp"
+    },
+    {
+      "id": "minor_cups_02",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "Two",
+      "name_zh": "圣杯二",
+      "name_en": "Two of Cups",
+      "symbol": "♡",
+      "upright_keywords": [
+        "互相理解",
+        "联结",
+        "关系平衡"
+      ],
+      "reversed_keywords": [
+        "关系错位",
+        "误解",
+        "情感失衡"
+      ],
+      "domain": "情感、关系、共情与直觉",
+      "imagePath": "/assets/tarot/rws/minor_cups_02.webp"
+    },
+    {
+      "id": "minor_cups_03",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "Three",
+      "name_zh": "圣杯三",
+      "name_en": "Three of Cups",
+      "symbol": "♡",
+      "upright_keywords": [
+        "友谊",
+        "共庆",
+        "社群支持"
+      ],
+      "reversed_keywords": [
+        "疏离",
+        "圈子摩擦",
+        "过度享乐"
+      ],
+      "domain": "情感、关系、共情与直觉",
+      "imagePath": "/assets/tarot/rws/minor_cups_03.webp"
+    },
+    {
+      "id": "minor_cups_04",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "Four",
+      "name_zh": "圣杯四",
+      "name_en": "Four of Cups",
+      "symbol": "♡",
+      "upright_keywords": [
+        "冷淡",
+        "停滞",
+        "重新审视"
+      ],
+      "reversed_keywords": [
+        "重新接纳",
+        "不满消散",
+        "机会迟疑"
+      ],
+      "domain": "情感、关系、共情与直觉",
+      "imagePath": "/assets/tarot/rws/minor_cups_04.webp"
+    },
+    {
+      "id": "minor_cups_05",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "Five",
+      "name_zh": "圣杯五",
+      "name_en": "Five of Cups",
+      "symbol": "♡",
+      "upright_keywords": [
+        "遗憾",
+        "失落",
+        "未见希望"
+      ],
+      "reversed_keywords": [
+        "走出悲伤",
+        "接纳",
+        "重新看见资源"
+      ],
+      "domain": "情感、关系、共情与直觉",
+      "imagePath": "/assets/tarot/rws/minor_cups_05.webp"
+    },
+    {
+      "id": "minor_cups_06",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "Six",
+      "name_zh": "圣杯六",
+      "name_en": "Six of Cups",
+      "symbol": "♡",
+      "upright_keywords": [
+        "回忆",
+        "善意",
+        "熟悉感"
+      ],
+      "reversed_keywords": [
+        "沉湎过去",
+        "回忆滤镜",
+        "难以成长"
+      ],
+      "domain": "情感、关系、共情与直觉",
+      "imagePath": "/assets/tarot/rws/minor_cups_06.webp"
+    },
+    {
+      "id": "minor_cups_07",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "Seven",
+      "name_zh": "圣杯七",
+      "name_en": "Seven of Cups",
+      "symbol": "♡",
+      "upright_keywords": [
+        "幻想",
+        "选项过多",
+        "诱惑"
+      ],
+      "reversed_keywords": [
+        "清醒",
+        "看清选择",
+        "理想破灭"
+      ],
+      "domain": "情感、关系、共情与直觉",
+      "imagePath": "/assets/tarot/rws/minor_cups_07.webp"
+    },
+    {
+      "id": "minor_cups_08",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "Eight",
+      "name_zh": "圣杯八",
+      "name_en": "Eight of Cups",
+      "symbol": "♡",
+      "upright_keywords": [
+        "离开",
+        "寻找意义",
+        "放下"
+      ],
+      "reversed_keywords": [
+        "不舍",
+        "原地循环",
+        "迟迟不走"
+      ],
+      "domain": "情感、关系、共情与直觉",
+      "imagePath": "/assets/tarot/rws/minor_cups_08.webp"
+    },
+    {
+      "id": "minor_cups_09",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "Nine",
+      "name_zh": "圣杯九",
+      "name_en": "Nine of Cups",
+      "symbol": "♡",
+      "upright_keywords": [
+        "满足",
+        "愿望",
+        "内在丰盈"
+      ],
+      "reversed_keywords": [
+        "空虚",
+        "过度享乐",
+        "目标落差"
+      ],
+      "domain": "情感、关系、共情与直觉",
+      "imagePath": "/assets/tarot/rws/minor_cups_09.webp"
+    },
+    {
+      "id": "minor_cups_10",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "Ten",
+      "name_zh": "圣杯十",
+      "name_en": "Ten of Cups",
+      "symbol": "♡",
+      "upright_keywords": [
+        "和谐",
+        "家庭",
+        "情感圆满"
+      ],
+      "reversed_keywords": [
+        "表面和睦",
+        "分歧",
+        "期待落空"
+      ],
+      "domain": "情感、关系、共情与直觉",
+      "imagePath": "/assets/tarot/rws/minor_cups_10.webp"
+    },
+    {
+      "id": "minor_cups_11",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "Page",
+      "name_zh": "圣杯侍从",
+      "name_en": "Page of Cups",
+      "symbol": "♡",
+      "upright_keywords": [
+        "敏感",
+        "创意",
+        "真诚表达"
+      ],
+      "reversed_keywords": [
+        "不成熟",
+        "情绪起伏",
+        "回避交流"
+      ],
+      "domain": "情感、关系、共情与直觉",
+      "imagePath": "/assets/tarot/rws/minor_cups_11.webp"
+    },
+    {
+      "id": "minor_cups_12",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "Knight",
+      "name_zh": "圣杯骑士",
+      "name_en": "Knight of Cups",
+      "symbol": "♡",
+      "upright_keywords": [
+        "示好",
+        "浪漫",
+        "跟随内心"
+      ],
+      "reversed_keywords": [
+        "理想化",
+        "承诺飘忽",
+        "感情冲动"
+      ],
+      "domain": "情感、关系、共情与直觉",
+      "imagePath": "/assets/tarot/rws/minor_cups_12.webp"
+    },
+    {
+      "id": "minor_cups_13",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "Queen",
+      "name_zh": "圣杯皇后",
+      "name_en": "Queen of Cups",
+      "symbol": "♡",
+      "upright_keywords": [
+        "共情",
+        "照料",
+        "温柔边界"
+      ],
+      "reversed_keywords": [
+        "情绪淹没",
+        "过度付出",
+        "忽视自身"
+      ],
+      "domain": "情感、关系、共情与直觉",
+      "imagePath": "/assets/tarot/rws/minor_cups_13.webp"
+    },
+    {
+      "id": "minor_cups_14",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": "King",
+      "name_zh": "圣杯国王",
+      "name_en": "King of Cups",
+      "symbol": "♡",
+      "upright_keywords": [
+        "情绪成熟",
+        "稳重",
+        "理解"
+      ],
+      "reversed_keywords": [
+        "情绪控制",
+        "疏离",
+        "不善表达"
+      ],
+      "domain": "情感、关系、共情与直觉",
+      "imagePath": "/assets/tarot/rws/minor_cups_14.webp"
+    },
+    {
+      "id": "minor_swords_01",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "Ace",
+      "name_zh": "宝剑王牌",
+      "name_en": "Ace of Swords",
+      "symbol": "⚔",
+      "upright_keywords": [
+        "清晰",
+        "真相",
+        "决定"
+      ],
+      "reversed_keywords": [
+        "思路混乱",
+        "误判",
+        "言语伤害"
+      ],
+      "domain": "思考、冲突、决策与沟通",
+      "imagePath": "/assets/tarot/rws/minor_swords_01.webp"
+    },
+    {
+      "id": "minor_swords_02",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "Two",
+      "name_zh": "宝剑二",
+      "name_en": "Two of Swords",
+      "symbol": "⚔",
+      "upright_keywords": [
+        "僵持",
+        "两难",
+        "回避抉择"
+      ],
+      "reversed_keywords": [
+        "强迫决定",
+        "信息浮现",
+        "纠结"
+      ],
+      "domain": "思考、冲突、决策与沟通",
+      "imagePath": "/assets/tarot/rws/minor_swords_02.webp"
+    },
+    {
+      "id": "minor_swords_03",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "Three",
+      "name_zh": "宝剑三",
+      "name_en": "Three of Swords",
+      "symbol": "⚔",
+      "upright_keywords": [
+        "心痛",
+        "分离",
+        "受伤"
+      ],
+      "reversed_keywords": [
+        "疗愈开始",
+        "伤痛内化",
+        "难以释怀"
+      ],
+      "domain": "思考、冲突、决策与沟通",
+      "imagePath": "/assets/tarot/rws/minor_swords_03.webp"
+    },
+    {
+      "id": "minor_swords_04",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "Four",
+      "name_zh": "宝剑四",
+      "name_en": "Four of Swords",
+      "symbol": "⚔",
+      "upright_keywords": [
+        "休息",
+        "恢复",
+        "短暂停顿"
+      ],
+      "reversed_keywords": [
+        "倦怠",
+        "过早复出",
+        "压力未解"
+      ],
+      "domain": "思考、冲突、决策与沟通",
+      "imagePath": "/assets/tarot/rws/minor_swords_04.webp"
+    },
+    {
+      "id": "minor_swords_05",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "Five",
+      "name_zh": "宝剑五",
+      "name_en": "Five of Swords",
+      "symbol": "⚔",
+      "upright_keywords": [
+        "争胜",
+        "关系损耗",
+        "代价"
+      ],
+      "reversed_keywords": [
+        "和解尝试",
+        "冲突余波",
+        "失去信任"
+      ],
+      "domain": "思考、冲突、决策与沟通",
+      "imagePath": "/assets/tarot/rws/minor_swords_05.webp"
+    },
+    {
+      "id": "minor_swords_06",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "Six",
+      "name_zh": "宝剑六",
+      "name_en": "Six of Swords",
+      "symbol": "⚔",
+      "upright_keywords": [
+        "过渡",
+        "离开困局",
+        "缓和"
+      ],
+      "reversed_keywords": [
+        "困在旧事",
+        "迁移受阻",
+        "不愿改变"
+      ],
+      "domain": "思考、冲突、决策与沟通",
+      "imagePath": "/assets/tarot/rws/minor_swords_06.webp"
+    },
+    {
+      "id": "minor_swords_07",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "Seven",
+      "name_zh": "宝剑七",
+      "name_en": "Seven of Swords",
+      "symbol": "⚔",
+      "upright_keywords": [
+        "策略",
+        "保留",
+        "隐瞒"
+      ],
+      "reversed_keywords": [
+        "真相显露",
+        "失策",
+        "道德压力"
+      ],
+      "domain": "思考、冲突、决策与沟通",
+      "imagePath": "/assets/tarot/rws/minor_swords_07.webp"
+    },
+    {
+      "id": "minor_swords_08",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "Eight",
+      "name_zh": "宝剑八",
+      "name_en": "Eight of Swords",
+      "symbol": "⚔",
+      "upright_keywords": [
+        "受限",
+        "自我设限",
+        "束缚"
+      ],
+      "reversed_keywords": [
+        "看见出路",
+        "松绑",
+        "仍有恐惧"
+      ],
+      "domain": "思考、冲突、决策与沟通",
+      "imagePath": "/assets/tarot/rws/minor_swords_08.webp"
+    },
+    {
+      "id": "minor_swords_09",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "Nine",
+      "name_zh": "宝剑九",
+      "name_en": "Nine of Swords",
+      "symbol": "⚔",
+      "upright_keywords": [
+        "焦虑",
+        "失眠",
+        "担忧"
+      ],
+      "reversed_keywords": [
+        "忧虑减轻",
+        "长期压力",
+        "求助意识"
+      ],
+      "domain": "思考、冲突、决策与沟通",
+      "imagePath": "/assets/tarot/rws/minor_swords_09.webp"
+    },
+    {
+      "id": "minor_swords_10",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "Ten",
+      "name_zh": "宝剑十",
+      "name_en": "Ten of Swords",
+      "symbol": "⚔",
+      "upright_keywords": [
+        "终局",
+        "打击",
+        "无法继续"
+      ],
+      "reversed_keywords": [
+        "复原",
+        "谷底回升",
+        "旧伤未平"
+      ],
+      "domain": "思考、冲突、决策与沟通",
+      "imagePath": "/assets/tarot/rws/minor_swords_10.webp"
+    },
+    {
+      "id": "minor_swords_11",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "Page",
+      "name_zh": "宝剑侍从",
+      "name_en": "Page of Swords",
+      "symbol": "⚔",
+      "upright_keywords": [
+        "求知",
+        "观察",
+        "敏锐"
+      ],
+      "reversed_keywords": [
+        "流言",
+        "过度猜忌",
+        "判断草率"
+      ],
+      "domain": "思考、冲突、决策与沟通",
+      "imagePath": "/assets/tarot/rws/minor_swords_11.webp"
+    },
+    {
+      "id": "minor_swords_12",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "Knight",
+      "name_zh": "宝剑骑士",
+      "name_en": "Knight of Swords",
+      "symbol": "⚔",
+      "upright_keywords": [
+        "直接",
+        "突进",
+        "辩论"
+      ],
+      "reversed_keywords": [
+        "莽撞",
+        "攻击性",
+        "缺少耐心"
+      ],
+      "domain": "思考、冲突、决策与沟通",
+      "imagePath": "/assets/tarot/rws/minor_swords_12.webp"
+    },
+    {
+      "id": "minor_swords_13",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "Queen",
+      "name_zh": "宝剑皇后",
+      "name_en": "Queen of Swords",
+      "symbol": "⚔",
+      "upright_keywords": [
+        "清醒",
+        "界限",
+        "独立判断"
+      ],
+      "reversed_keywords": [
+        "严苛",
+        "冷漠",
+        "防备过深"
+      ],
+      "domain": "思考、冲突、决策与沟通",
+      "imagePath": "/assets/tarot/rws/minor_swords_13.webp"
+    },
+    {
+      "id": "minor_swords_14",
+      "arcana": "minor",
+      "suit": "swords",
+      "rank": "King",
+      "name_zh": "宝剑国王",
+      "name_en": "King of Swords",
+      "symbol": "⚔",
+      "upright_keywords": [
+        "理性",
+        "公正",
+        "清楚规则"
+      ],
+      "reversed_keywords": [
+        "武断",
+        "僵硬",
+        "话语压制"
+      ],
+      "domain": "思考、冲突、决策与沟通",
+      "imagePath": "/assets/tarot/rws/minor_swords_14.webp"
+    },
+    {
+      "id": "minor_pentacles_01",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "Ace",
+      "name_zh": "星币王牌",
+      "name_en": "Ace of Pentacles",
+      "symbol": "✥",
+      "upright_keywords": [
+        "现实机会",
+        "资源",
+        "新起点"
+      ],
+      "reversed_keywords": [
+        "机会错过",
+        "资源不足",
+        "基础薄弱"
+      ],
+      "domain": "物质、资源、工作与现实",
+      "imagePath": "/assets/tarot/rws/minor_pentacles_01.webp"
+    },
+    {
+      "id": "minor_pentacles_02",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "Two",
+      "name_zh": "星币二",
+      "name_en": "Two of Pentacles",
+      "symbol": "✥",
+      "upright_keywords": [
+        "平衡事务",
+        "灵活",
+        "权衡"
+      ],
+      "reversed_keywords": [
+        "顾此失彼",
+        "事务过载",
+        "失去节奏"
+      ],
+      "domain": "物质、资源、工作与现实",
+      "imagePath": "/assets/tarot/rws/minor_pentacles_02.webp"
+    },
+    {
+      "id": "minor_pentacles_03",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "Three",
+      "name_zh": "星币三",
+      "name_en": "Three of Pentacles",
+      "symbol": "✥",
+      "upright_keywords": [
+        "协作",
+        "专业",
+        "共同建设"
+      ],
+      "reversed_keywords": [
+        "配合不良",
+        "缺少认可",
+        "质量不稳"
+      ],
+      "domain": "物质、资源、工作与现实",
+      "imagePath": "/assets/tarot/rws/minor_pentacles_03.webp"
+    },
+    {
+      "id": "minor_pentacles_04",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "Four",
+      "name_zh": "星币四",
+      "name_en": "Four of Pentacles",
+      "symbol": "✥",
+      "upright_keywords": [
+        "守护资源",
+        "安全感",
+        "掌控"
+      ],
+      "reversed_keywords": [
+        "吝惜",
+        "失控焦虑",
+        "放手困难"
+      ],
+      "domain": "物质、资源、工作与现实",
+      "imagePath": "/assets/tarot/rws/minor_pentacles_04.webp"
+    },
+    {
+      "id": "minor_pentacles_05",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "Five",
+      "name_zh": "星币五",
+      "name_en": "Five of Pentacles",
+      "symbol": "✥",
+      "upright_keywords": [
+        "匮乏",
+        "排斥",
+        "现实压力"
+      ],
+      "reversed_keywords": [
+        "获得支持",
+        "复原开端",
+        "仍有缺口"
+      ],
+      "domain": "物质、资源、工作与现实",
+      "imagePath": "/assets/tarot/rws/minor_pentacles_05.webp"
+    },
+    {
+      "id": "minor_pentacles_06",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "Six",
+      "name_zh": "星币六",
+      "name_en": "Six of Pentacles",
+      "symbol": "✥",
+      "upright_keywords": [
+        "给予",
+        "回馈",
+        "资源流通"
+      ],
+      "reversed_keywords": [
+        "分配不公",
+        "有条件施舍",
+        "债务感"
+      ],
+      "domain": "物质、资源、工作与现实",
+      "imagePath": "/assets/tarot/rws/minor_pentacles_06.webp"
+    },
+    {
+      "id": "minor_pentacles_07",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "Seven",
+      "name_zh": "星币七",
+      "name_en": "Seven of Pentacles",
+      "symbol": "✥",
+      "upright_keywords": [
+        "等待收获",
+        "耐心",
+        "复盘"
+      ],
+      "reversed_keywords": [
+        "急于求成",
+        "收益不足",
+        "投入失衡"
+      ],
+      "domain": "物质、资源、工作与现实",
+      "imagePath": "/assets/tarot/rws/minor_pentacles_07.webp"
+    },
+    {
+      "id": "minor_pentacles_08",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "Eight",
+      "name_zh": "星币八",
+      "name_en": "Eight of Pentacles",
+      "symbol": "✥",
+      "upright_keywords": [
+        "练习",
+        "精进",
+        "细致耕耘"
+      ],
+      "reversed_keywords": [
+        "敷衍",
+        "乏味",
+        "技艺受阻"
+      ],
+      "domain": "物质、资源、工作与现实",
+      "imagePath": "/assets/tarot/rws/minor_pentacles_08.webp"
+    },
+    {
+      "id": "minor_pentacles_09",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "Nine",
+      "name_zh": "星币九",
+      "name_en": "Nine of Pentacles",
+      "symbol": "✥",
+      "upright_keywords": [
+        "独立",
+        "积累",
+        "成熟回报"
+      ],
+      "reversed_keywords": [
+        "依赖",
+        "表面富足",
+        "不稳根基"
+      ],
+      "domain": "物质、资源、工作与现实",
+      "imagePath": "/assets/tarot/rws/minor_pentacles_09.webp"
+    },
+    {
+      "id": "minor_pentacles_10",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "Ten",
+      "name_zh": "星币十",
+      "name_en": "Ten of Pentacles",
+      "symbol": "✥",
+      "upright_keywords": [
+        "长期稳定",
+        "家业",
+        "传承"
+      ],
+      "reversed_keywords": [
+        "资产压力",
+        "家庭分歧",
+        "传承不稳"
+      ],
+      "domain": "物质、资源、工作与现实",
+      "imagePath": "/assets/tarot/rws/minor_pentacles_10.webp"
+    },
+    {
+      "id": "minor_pentacles_11",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "Page",
+      "name_zh": "星币侍从",
+      "name_en": "Page of Pentacles",
+      "symbol": "✥",
+      "upright_keywords": [
+        "务实学习",
+        "新机会",
+        "投入"
+      ],
+      "reversed_keywords": [
+        "拖延",
+        "纸上谈兵",
+        "基础不牢"
+      ],
+      "domain": "物质、资源、工作与现实",
+      "imagePath": "/assets/tarot/rws/minor_pentacles_11.webp"
+    },
+    {
+      "id": "minor_pentacles_12",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "Knight",
+      "name_zh": "星币骑士",
+      "name_en": "Knight of Pentacles",
+      "symbol": "✥",
+      "upright_keywords": [
+        "可靠",
+        "勤恳",
+        "循序渐进"
+      ],
+      "reversed_keywords": [
+        "停滞",
+        "保守过度",
+        "消极怠工"
+      ],
+      "domain": "物质、资源、工作与现实",
+      "imagePath": "/assets/tarot/rws/minor_pentacles_12.webp"
+    },
+    {
+      "id": "minor_pentacles_13",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "Queen",
+      "name_zh": "星币皇后",
+      "name_en": "Queen of Pentacles",
+      "symbol": "✥",
+      "upright_keywords": [
+        "照料现实",
+        "丰足",
+        "务实"
+      ],
+      "reversed_keywords": [
+        "疏于照护",
+        "耗竭",
+        "物质焦虑"
+      ],
+      "domain": "物质、资源、工作与现实",
+      "imagePath": "/assets/tarot/rws/minor_pentacles_13.webp"
+    },
+    {
+      "id": "minor_pentacles_14",
+      "arcana": "minor",
+      "suit": "pentacles",
+      "rank": "King",
+      "name_zh": "星币国王",
+      "name_en": "King of Pentacles",
+      "symbol": "✥",
+      "upright_keywords": [
+        "资源管理",
+        "稳健成果",
+        "责任"
+      ],
+      "reversed_keywords": [
+        "唯利是图",
+        "固守",
+        "物质至上"
+      ],
+      "domain": "物质、资源、工作与现实",
+      "imagePath": "/assets/tarot/rws/minor_pentacles_14.webp"
+    }
+  ]
+}

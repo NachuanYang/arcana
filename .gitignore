@@ -1,0 +1,49 @@
+# Generated dependency and build output
+**/node_modules/
+**/dist/
+**/target/
+**/target-*/
+**/.venv/
+**/__pycache__/
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+**/.cache/
+embedding-benchmark/cache/
+
+# Local credentials and environment overrides
+**/.env
+**/.env.*
+!**/.env.example
+
+# Large release installers are distributed separately
+release/**/*.exe
+release/**/*.msi
+
+# Local distribution archives and model weights (kept outside the source repository)
+release/**/*.zip
+release/**/*.exe.legacy
+**/embedding-benchmark/cache/
+/ARCANUM_V1_FINAL_CODEX_HANDOFF.zip
+
+# Public source repository scope
+/assets/
+/docs/
+/reference/
+/release/
+/video/
+/README_FIRST.md
+/CODEX_START_PROMPT.md
+/ARCANUM_V1_FINAL_DEVELOPMENT_SPEC.md
+/HANDOFF_SHA256.txt
+/verify_handoff.py
+/demonstration_arcana.mp4
+/promotional_video_arcana.mp4
+/data/tarot_78_seed.json
+/public/assets/tarot/rws/ASSET_MAP.json
+/src-tauri/gen/
+
+/tools/rws-assets/
+/tools/eval/results/
+/tools/eval/README.md
+/tools/eval/*.py

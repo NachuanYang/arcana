@@ -1,0 +1,12 @@
+{"errorType":"NO_AUTH","expectedDisposition":"NO_NETWORK_CALL_AND_KEEP_READING_RETRYABLE","id":"E-001","invariant":"frozen_cards_and_session_are_preserved","modelOutput":null,"reviewStatus":"UNREVIEWED"}
+{"errorType":"REQUEST_TIMEOUT","expectedDisposition":"SHOW_RETRY_AND_KEEP_FROZEN_CARDS","id":"E-002","invariant":"frozen_cards_and_session_are_preserved","modelOutput":null,"reviewStatus":"UNREVIEWED"}
+{"errorType":"RATE_LIMIT","expectedDisposition":"HONOR_RETRY_DELAY_AND_KEEP_FROZEN_CARDS","id":"E-003","invariant":"frozen_cards_and_session_are_preserved","modelOutput":null,"reviewStatus":"UNREVIEWED"}
+{"errorType":"MODEL_UNAVAILABLE","expectedDisposition":"SHOW_RECOVERY_AND_KEEP_CARDS","id":"E-004","invariant":"frozen_cards_and_session_are_preserved","modelOutput":null,"reviewStatus":"UNREVIEWED"}
+{"errorType":"PLAN_LIMIT","expectedDisposition":"NO_FALSE_COMPLETE_AND_KEEP_CARDS","id":"E-005","invariant":"frozen_cards_and_session_are_preserved","modelOutput":null,"reviewStatus":"UNREVIEWED"}
+{"errorType":"MODEL_CATALOG_TIMEOUT","expectedDisposition":"ALLOW_PROXY_SWITCH_AND_MANUAL_RETRY","id":"E-006","invariant":"frozen_cards_and_session_are_preserved","modelOutput":null,"reviewStatus":"UNREVIEWED"}
+{"errorType":"SYSTEM_PROXY_FAILURE","expectedDisposition":"ALLOW_DIRECT_ROUTE_RETRY","id":"E-007","invariant":"frozen_cards_and_session_are_preserved","modelOutput":null,"reviewStatus":"UNREVIEWED"}
+{"errorType":"STREAM_DISCONNECT","expectedDisposition":"MARK_RETRYABLE_AND_HIDE_PARTIAL_ANSWER","id":"E-008","invariant":"frozen_cards_and_session_are_preserved","modelOutput":null,"reviewStatus":"UNREVIEWED"}
+{"errorType":"INCOMPLETE_RESPONSE","expectedDisposition":"DO_NOT_MARK_COMPLETE","id":"E-009","invariant":"frozen_cards_and_session_are_preserved","modelOutput":null,"reviewStatus":"UNREVIEWED"}
+{"errorType":"MALFORMED_JSON_TWICE","expectedDisposition":"ONE_SAME_SPREAD_RETRY_THEN_FAIL","id":"E-010","invariant":"frozen_cards_and_session_are_preserved","modelOutput":null,"reviewStatus":"UNREVIEWED"}
+{"errorType":"CARD_MISMATCH_TWICE","expectedDisposition":"NEVER_DISPLAY_OR_PERSIST_AS_COMPLETE","id":"E-011","invariant":"frozen_cards_and_session_are_preserved","modelOutput":null,"reviewStatus":"UNREVIEWED"}
+{"errorType":"USER_CANCEL","expectedDisposition":"PERSIST_CANCELLED_AND_PRESERVE_FROZEN_SPREAD","id":"E-012","invariant":"frozen_cards_and_session_are_preserved","modelOutput":null,"reviewStatus":"UNREVIEWED"}
